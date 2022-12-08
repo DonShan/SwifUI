@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		29AF9EF2293A52B1002231E1 /* SwifUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwifUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		29AF9EF2293A52B1002231E1 /* We Split.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "We Split.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		29AF9EF5293A52B1002231E1 /* SwifUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwifUIApp.swift; sourceTree = "<group>"; };
 		29AF9EF7293A52B1002231E1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		29AF9EF9293A52B3002231E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		29AF9EF3293A52B1002231E1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				29AF9EF2293A52B1002231E1 /* SwifUI.app */,
+				29AF9EF2293A52B1002231E1 /* We Split.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		29AF9EF1293A52B1002231E1 /* SwifUI */ = {
+		29AF9EF1293A52B1002231E1 /* We Split */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 29AF9F00293A52B3002231E1 /* Build configuration list for PBXNativeTarget "SwifUI" */;
+			buildConfigurationList = 29AF9F00293A52B3002231E1 /* Build configuration list for PBXNativeTarget "We Split" */;
 			buildPhases = (
 				29AF9EEE293A52B1002231E1 /* Sources */,
 				29AF9EEF293A52B1002231E1 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = SwifUI;
+			name = "We Split";
 			productName = SwifUI;
-			productReference = 29AF9EF2293A52B1002231E1 /* SwifUI.app */;
+			productReference = 29AF9EF2293A52B1002231E1 /* We Split.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 29AF9EED293A52B1002231E1 /* Build configuration list for PBXProject "SwifUI" */;
+			buildConfigurationList = 29AF9EED293A52B1002231E1 /* Build configuration list for PBXProject "We Split" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				29AF9EF1293A52B1002231E1 /* SwifUI */,
+				29AF9EF1293A52B1002231E1 /* We Split */,
 			);
 		};
 /* End PBXProject section */
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		29AF9EED293A52B1002231E1 /* Build configuration list for PBXProject "SwifUI" */ = {
+		29AF9EED293A52B1002231E1 /* Build configuration list for PBXProject "We Split" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				29AF9EFE293A52B3002231E1 /* Debug */,
@@ -329,7 +329,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		29AF9F00293A52B3002231E1 /* Build configuration list for PBXNativeTarget "SwifUI" */ = {
+		29AF9F00293A52B3002231E1 /* Build configuration list for PBXNativeTarget "We Split" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				29AF9F01293A52B3002231E1 /* Debug */,
